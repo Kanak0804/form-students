@@ -1,0 +1,23 @@
+body {
+  background-color: #baceee !important;
+}
+
+/* Custom form box */
+.form-box {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+}
+
+/* Inputs */
+.form-control,
+.form-select {
+  border-radius: 5px;
+}
+
+/* Button */
+.btn-primary {
+  border-radius: 5px;
+}
